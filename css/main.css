@@ -23,6 +23,16 @@
   max-width: 1000px;
 }
 
+	@font-face {
+	font-family: 'lobster';
+	src: url('lobster.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+ :not(table) body {
+font-family: 'lobster'; 
+}
+
 
 
 
