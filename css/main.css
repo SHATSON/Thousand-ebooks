@@ -4,7 +4,24 @@
    Author's custom styles
    ========================================================================== */
 
+#Name{
+	width: 45%;
+}
+#Author{
+	width: 40%;
 
+}
+#Download{
+	width: 10%;
+}
+#No{
+	width: 5%;
+}
+#maintable1{
+	position:relative;
+  right:20px;
+  max-width: 1000px;
+}
 
 
 
