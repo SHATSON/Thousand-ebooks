@@ -29,8 +29,10 @@
 	font-weight: normal;
 	font-style: normal;
 }
- :not(table) body {
-font-family: 'lobster'; 
+ body {
+font-family: 'Oxygen'; 
+background-color: #292f35;
+color: white;
 }
 
 
